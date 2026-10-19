@@ -1,1 +1,2 @@
 I am trying now from git to VM.
+I am typing here to see how to update in VM side
